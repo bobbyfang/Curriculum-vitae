@@ -1,2 +1,2 @@
 # Curriculum vitae
-Welcome to my [curriculum vitae](./Bobby Fang - CV (SW).pdf)
+Welcome to my [curriculum vitae](/Bobby_Fang_CV.pdf)
